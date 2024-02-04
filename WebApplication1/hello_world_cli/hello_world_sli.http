@@ -1,6 +1,0 @@
-@hello_world_sli_HostAddress = http://localhost:5182
-
-GET {{hello_world_sli_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

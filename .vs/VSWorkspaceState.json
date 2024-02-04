@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebApplication1"
+    "\\basics",
+    "\\basics\\HelloWebApi"
   ],
   "PreviewInSolutionExplorer": false
 }

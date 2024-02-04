@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world_api_ui", "hello_world_api_ui\hello_world_api_ui.csproj", "{F91EE5C4-6D98-4A24-A9C1-1AF06A106912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebApi", "HelloWebApi\HelloWebApi.csproj", "{18AB55D5-AF7D-46A3-8058-2EA43D4D419C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91EE5C4-6D98-4A24-A9C1-1AF06A106912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91EE5C4-6D98-4A24-A9C1-1AF06A106912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91EE5C4-6D98-4A24-A9C1-1AF06A106912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91EE5C4-6D98-4A24-A9C1-1AF06A106912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AB55D5-AF7D-46A3-8058-2EA43D4D419C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AB55D5-AF7D-46A3-8058-2EA43D4D419C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AB55D5-AF7D-46A3-8058-2EA43D4D419C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AB55D5-AF7D-46A3-8058-2EA43D4D419C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A569C01F-5FCA-4275-9BE6-AFDDBAA5A06E}
+	EndGlobalSection
+EndGlobal
