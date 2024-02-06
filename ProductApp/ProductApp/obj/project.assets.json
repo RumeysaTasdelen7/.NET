@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\ProductApp\\ProductApp\\ProductApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Masaüstü\\DOTNET\\ProductApp\\ProductApp\\ProductApp.csproj",
       "projectName": "ProductApp",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\ProductApp\\ProductApp\\ProductApp.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\DOTNET\\ProductApp\\ProductApp\\ProductApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\ProductApp\\ProductApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Masaüstü\\DOTNET\\ProductApp\\ProductApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
