@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "WebApi.sln"
+    "dotnet.defaultSolution": "WebApi.sln",
+    "mssql.intelliSense.lowerCaseSuggestions": false
 }

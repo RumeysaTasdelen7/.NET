@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Entities"
+    "\\Entities",
+    "\\WebApi",
+    "\\WebApi\\Controllers"
   ],
-  "SelectedNode": "\\WebApi.sln",
+  "SelectedNode": "\\WebApi\\Controllers\\BooksController.cs",
   "PreviewInSolutionExplorer": false
 }
