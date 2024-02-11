@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Entities",
+    "\\Repositories",
+    "\\Repositories\\Contracts",
+    "\\Repositories\\EFCore",
     "\\WebApi",
     "\\WebApi\\Controllers"
   ],
-  "SelectedNode": "\\WebApi\\Controllers\\BooksController.cs",
+  "SelectedNode": "\\Repositories\\EFCore\\RepositoryContext.cs",
   "PreviewInSolutionExplorer": false
 }

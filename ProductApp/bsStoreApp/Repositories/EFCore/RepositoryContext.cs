@@ -1,3 +1,8 @@
+using System.Collections.Generic;
+using System.Reflection.Emit;
+using Entities.Models;
+using Repositories.EFCore.Config;
+
 namespace Repositories.EFCore
 {
     public class RepositoryContext : DbContext
@@ -9,9 +14,21 @@ namespace Repositories.EFCore
         }
         public DbSet<Book> Books { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModuleBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new BookConfig());
         }
+
+        internal void SaveChanges()
+        {
+            throw new NotImplementedException();
+        }
+
+
+        internal object Set<T>()
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }

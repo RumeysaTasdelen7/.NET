@@ -1,9 +1,7 @@
-using System.Collections.Concurrent;
 using Entities.Models;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
+namespace Repositories.EFCore.Config;
 
-namespace WebApi.Repositories.Config
+public class BookConfig
 {
     public class BookConfig : IEntityTypeConfiguration<Book>
     {
