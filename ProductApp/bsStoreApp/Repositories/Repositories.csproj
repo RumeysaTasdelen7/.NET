@@ -6,6 +6,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1"/>
+    <PackageReference Include="EFCore" Version="1.1.2"/>
     <Folder Include="NewFolder\"/>
   </ItemGroup>
   <ItemGroup>
